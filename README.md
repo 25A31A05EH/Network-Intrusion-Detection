@@ -50,10 +50,15 @@ This project demonstrates the application of graph data structures in basic netw
 **Future Enhancements**:
 
 1.**Real-Time Network Monitoring**: Integrate live network traffic monitoring to analyze actual network activities.
+
 2.**Advanced Detection Techniques**: Implement multiple detection rules to identify different suspicious connection patterns.
+
 3.**Machine Learning Integration**: Use machine learning techniques to improve the identification of unusual network behavior.
+
 4.**Graphical User Interface**: Develop a user-friendly dashboard to visualize network connections and risk reports.
+
 5.**Alert System**: Generate alerts whenever potentially suspicious network activity is detected.
+
 6.**Detailed Traffic Analysis**: Analyze connection frequency, timestamps, and traffic patterns for better detection.
 
 **How to Run**:
