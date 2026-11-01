@@ -5,6 +5,7 @@ A C++-based Network Intrusion Detection System that uses graph data structures a
 
 **Abstract**:
 This project demonstrates the application of graph data structures in basic network security analysis. Computers are represented as vertices, and connections between computers are represented as edges. The system uses an adjacency list to store network connections and applies BFS and DFS algorithms to explore network connectivity. It analyzes the number of connections associated with each computer and flags computers that exceed a predefined threshold. It also provides network management, risk reports, and network statistics through a menu-driven interface.
+
 **Features**:
 - Graph representation using an adjacency list.
 - Add and remove network connections.
@@ -28,6 +29,7 @@ This project demonstrates the application of graph data structures in basic netw
 - Computer or laptop
 - Minimum 4 GB RAM
 - Intel Core i3 or equivalent processor
+  
 **Software Requirements**:
 - Windows, Linux, or macOS
 - C++ compiler (GCC/G++ or MinGW)
@@ -61,8 +63,8 @@ Run the program:
 On Windows, run:
 network_ids.exe
 
-**conclusion**
+**conclusion**:
 This project demonstrates how graph data structures and algorithms can be used for basic network security analysis. It helps understand network connectivity, threshold-based detection, and graph traversal using C++.
 
-**Note**
+**Note**:
 This is an educational, rule-based implementation. A high connection count does not necessarily indicate an actual intrusion. The system does not monitor live network traffic or confirm real cyberattacks.
