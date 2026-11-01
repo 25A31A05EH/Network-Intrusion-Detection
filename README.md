@@ -1,9 +1,11 @@
 **NETWORK INTRUSION DETECTION USING GRAPHS IN C++ :**
 
 **Project Description**:
+
 A C++-based Network Intrusion Detection System that uses graph data structures and algorithms to analyze network connections, identify potentially suspicious computers using a threshold-based approach, and generate risk reports and network statistics.
 
 **Abstract**:
+
 This project demonstrates the application of graph data structures in basic network security analysis. Computers are represented as vertices, and connections between computers are represented as edges. The system uses an adjacency list to store network connections and applies BFS and DFS algorithms to explore network connectivity. It analyzes the number of connections associated with each computer and flags computers that exceed a predefined threshold. It also provides network management, risk reports, and network statistics through a menu-driven interface.
 
 **Features**:
@@ -64,7 +66,9 @@ On Windows, run:
 network_ids.exe
 
 **conclusion**:
+
 This project demonstrates how graph data structures and algorithms can be used for basic network security analysis. It helps understand network connectivity, threshold-based detection, and graph traversal using C++.
 
 **Note**:
+
 This is an educational, rule-based implementation. A high connection count does not necessarily indicate an actual intrusion. The system does not monitor live network traffic or confirm real cyberattacks.
