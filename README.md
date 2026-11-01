@@ -1,4 +1,4 @@
-**NETWORK INTRUSION DETECTION USING GRAPHS IN C++ :**
+**Network Intrusion Detection Using Graphs in C++ :**
 
 **Project Description**:
 
